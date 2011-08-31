@@ -1,0 +1,1 @@
+<h2><?php echo $market_db['Bidder']['login']?></h2>

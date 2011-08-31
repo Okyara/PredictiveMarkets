@@ -1,0 +1,1 @@
+<a class="big" target="_top" href="../market/viewall">Your question successfully added. Click here to go back.</a>

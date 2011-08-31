@@ -1,0 +1,1 @@
+<a class="big" target="_top" href="../../ask/viewall">Your Ask. Click here to go back.</a>
